@@ -9,7 +9,9 @@ Author:  Erin James Wills, ejw.data@gmail.com
 
 ## Overview
 <hr>
-Below is a quick example of a leaflet animation where I incorporate the browser's built-in geolocation as a starting location and using the click event on the map to assign the ending location.  The animation moves the starting marker along a generated street path until it reaches the end location.  The path directions are also displayed in the upper right section of the map.  
+Below is a quick example of a leaflet animation where I incorporate the browser's built-in geolocation as a starting location and using the click event on the map to assign the ending location.  The animation moves the starting marker along a generated street path until it reaches the end location.  The path directions are also displayed in the upper right section of the map.    
+
+**`Future Work`**:  This test case was developed for a potential rideshare and bikeshare analysis that would incorporate an interactive map to visualize vehicle activity and scheduling. 
 
 <br>  
 
